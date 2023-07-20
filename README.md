@@ -29,3 +29,6 @@ During the development of CureQuest, we learned the importance of leveraging adv
 Looking ahead, CureQuest has an exciting future ahead. The platform will continuously evolve with the availability of more data, which will enhance the accuracy of disease predictions even further. We plan to expand the platform's capabilities by adding more disease detections, including those detectable through X-ray scans or simple input. Additionally, we aim to provide patients with information about necessary precautions and how to manage their health if they test positive for a particular disease. By storing detection records, CureQuest will enable doctors to monitor patients' health and track their progress, making it a truly comprehensive and life-changing medical solution.
 
 In conclusion, CureQuest represents the epitome of innovation in the healthcare industry. With its powerful AI-driven disease detection capabilities, it can analyze patient data rapidly and accurately, leading to improved patient outcomes and cost-effective healthcare solutions. The seamless integration of Intel® oneAPI Tools further solidifies its position as a groundbreaking platform that can revolutionize the way diseases are detected and managed.
+
+## YouTube Link
+https://youtu.be/G4KfElqoNZE
